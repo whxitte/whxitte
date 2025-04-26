@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sethu+Satheesh;CYBER+SECURITY+ENTHUSIAST;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-<b><i>"I will not post any high level/complicated and explict programs or content here because all the contents in my account is intended simply for educational purpose only and the aim is every one will understand the scripts i post so i tried to keep it simple as much as i can and provide explanation of each code. each of them will be simple implementations, so that everyone can understand the aspects."<i><b>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WH1T3-E4GL3&label=Profile%20views&color=0e75b6&style=flat" alt="WH1T3-E4GL3" />    <img src="https://tryhackme-badges.s3.amazonaws.com/S3THU.png" alt="TryHackMe">  
 <a href="https://buymeacoffee.com/whxitte" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p> 
