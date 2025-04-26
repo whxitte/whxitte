@@ -11,7 +11,7 @@
  
  ___________________________________________________________________
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/WH1T3-E4GL3/WH1T3-E4GL3)   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Ka_KsHi_HaTaKe) 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte)  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/whxitte/whxitte)   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Ka_KsHi_HaTaKe) 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=whxitte) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whxitte&show_icons=true&locale=en" alt="whxitte" /></p>
