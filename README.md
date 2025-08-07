@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sethu+Satheesh;CYBER+SECURITY+ENTHUSIAST;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sethu+Satheesh;CYBER+SECURITY+RESEARCHER)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=WH1T3-E4GL3&label=Profile%20views&color=0e75b6&style=for-the-badge" 
